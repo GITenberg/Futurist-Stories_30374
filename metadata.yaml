@@ -1,0 +1,30 @@
+_repo: Futurist-Stories_30374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Margery Verner
+    gutenberg_agent_id: '34563'
+    url: http://www.gutenberg.org/2009/agents/34563
+description: ''
+gutenberg_issued: '2009-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30374'
+  lccn: '19006890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Moonbeams -- The dream muff -- Rose petals -- In a field -- Incalculable
+  -- A Neapolitan street song -- In Algiers -- Candles -- Igor -- Two had lived --
+  The fifth symphony -- The mad artist -- Old scores -- The last -- Ashes -- Nancy
+  Turner -- The pawn shop keeper -- Something provincial -- Conflict -- That night
+  his sorrow was lifted.
+title: Futurist Stories
+url: http://www.gutenberg.org/ebooks/30374
